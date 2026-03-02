@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm djan-guy</h1>
+<h1 align="left">Hi I'm djan-guy</h1>
 <h3 align="left">A passionate Python, HTML, CSS and GDScript programmer</h3>
 
 - I’m currently working on [Django Education Website](https://github.com/djan-guy/Django-Education-Website)
