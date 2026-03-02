@@ -2,7 +2,7 @@
 <h3 align="left">A passionate Python, HTML, CSS and GDScript programmer</h3>
 
 - I’m currently working on [Django Education Website](https://github.com/djan-guy/Django-Education-Website)
-- All of my projects are available at [[https://github.com/djan-guy](https://github.com/djan-guy)](https://github.com/repos)
+- All of my projects are available at https://github.com/djan-guy
 - **I like Python Django**
 
 <h3 align="left">Languages and Tools that I know:</h3>
