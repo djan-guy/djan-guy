@@ -1,5 +1,5 @@
 <h1 align="left">Hello, I'm djan-guy</h1>
-<h3 align="left">A passionate Python, HTML, CSS and GDScript programmer</h3>
+<h3 align="left">Python, HTML, CSS and GDScript programmer</h3>
 
 - I’m currently working on [Django Education Website](https://github.com/djan-guy/Django-Education-Website)
 - All of my projects are available at https://github.com/djan-guy
